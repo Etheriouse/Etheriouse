@@ -202,7 +202,8 @@ Then probably rebuilding them.
 <br>
 
 <pre>
-<span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project/</span>$ cat interests.txt
+<!-- <span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project</span>$ cat interests.txt -->
+[32mzezeriouze@dev[0m:[34m/randomfolder/reallyfunny/project[0m$ cat interests.txt
 
 programming-languages
 compilers
