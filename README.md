@@ -203,10 +203,17 @@ Then probably rebuilding them.
 
 <td>
 <pre>
-<span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project</span>$ cat interests.txt
+
+${\color{#23d18b}\texttt{zezeriouze@dev}}
+{\color{gray}\texttt{:}}
+{\color{#3a8ce7}\texttt{/randomfolder/reallyfunny/project}}
+{\color{gray}\texttt{\$ cat interests.txt}}
+$
 > programming-languages <br>> compilers <br>> algorithms <br>> game-development<br>> systems<br>> experimentation
+
 </pre>
 </td>
+
 
 </details>
 
