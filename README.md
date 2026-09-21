@@ -201,17 +201,12 @@ Then probably rebuilding them.
 
 <br>
 
+<td>
 <pre>
-<!-- <span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project</span>$ cat interests.txt -->
-[32mzezeriouze@dev[0m:[34m/randomfolder/reallyfunny/project[0m$ cat interests.txt
-
-programming-languages
-compilers
-algorithms
-game-development
-systems
-experimentation
+<span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project</span>$ cat interests.txt
+> programming-languages <br>> compilers <br>> algorithms <br>> game-development<br>> systems<br>> experimentation
 </pre>
+</td>
 
 </details>
 
