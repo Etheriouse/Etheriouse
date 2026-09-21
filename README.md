@@ -201,7 +201,8 @@ Then probably rebuilding them.
 
 <br>
 
-zezeriouze@dev:/$ cat interests.txt
+<pre>
+<span style="color:#8b949e">zezeriouze@dev</span>:/$ cat interests.txt
 
 programming-languages
 compilers
@@ -209,6 +210,7 @@ algorithms
 game-development
 systems
 experimentation
+</pre>
 
 </details>
 
