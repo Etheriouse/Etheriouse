@@ -201,19 +201,12 @@ Then probably rebuilding them.
 
 <br>
 
-<td>
-<pre>
-
-${\color{#23d18b}\texttt{zezeriouze@dev}}
+$${\color{#23d18b}\texttt{zezeriouze@dev}}
 {\color{gray}\texttt{:}}
 {\color{#3a8ce7}\texttt{/randomfolder/reallyfunny/project}}
-{\color{gray}\texttt{\$ cat interests.txt}}
-$
-> programming-languages <br>> compilers <br>> algorithms <br>> game-development<br>> systems<br>> experimentation
+{\color{gray}\texttt{\$ cat interests.txt}}$$
 
-</pre>
-</td>
-
+\> programming-languages <br>> compilers <br>> algorithms <br>> game-development<br>> systems<br>> experimentation
 
 </details>
 
