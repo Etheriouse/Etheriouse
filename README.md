@@ -202,7 +202,7 @@ Then probably rebuilding them.
 <br>
 
 <pre>
-<span style="color:#8b949e">zezeriouze@dev</span>:/$ cat interests.txt
+<span style="color:#23d18b">zezeriouze@dev</span>:<span style="color: #3a8ce7;">/randomfolder/reallyfunny/project/</span>$ cat interests.txt
 
 programming-languages
 compilers
