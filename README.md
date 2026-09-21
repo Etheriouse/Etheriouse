@@ -200,7 +200,6 @@ Then probably rebuilding them.
 <summary><b>What am I interested in?</b></summary>
 
 <br>
-```text
 zezeriouze@dev:/$ cat interests.txt
 
 programming-languages
@@ -209,7 +208,6 @@ algorithms
 game-development
 systems
 experimentation
-```
 </details>
 
 ---
